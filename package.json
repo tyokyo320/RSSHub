@@ -120,6 +120,7 @@
     "query-string": "7.0.1",
     "require-all": "3.0.0",
     "rss-parser": "3.12.0",
+    "rsshub": "^1.0.0-master.b8acfdb",
     "showdown": "1.9.1",
     "simplecc-wasm": "0.1.4",
     "socks-proxy-agent": "6.1.1",
